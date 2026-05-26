@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerualculate",
+        "uuid": 4506768,
+        "checksum": "eqwjir"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
